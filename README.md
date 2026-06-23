@@ -41,26 +41,6 @@ Exploring how AI transforms software delivery through:
 * AI-Assisted Architecture & Coding
 * Engineering Productivity Systems
 
-### Customer Engagement Platforms
-
-Building:
-
-* Conversational AI
-* Commerce & Payments
-* Customer Data Platforms
-* Journey Orchestration
-* Omnichannel Messaging
-
----
-
-## Leadership Principles
-
-* Ownership over process
-* Outcomes over output
-* Simplicity over complexity
-* Talent density over team size
-* Long-term thinking over short-term optimization
-
 ---
 
 ## Tech Areas
