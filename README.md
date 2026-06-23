@@ -1,6 +1,6 @@
 # Varun Reddy
 
-**Engineering Leader | Former Staff Engineer & Product Manager | AI-Native Builder**
+**Engineering Leader | Former Staff Engineer & Staff Product Manager | AI-Native Builder**
 
 🇸🇬 Singapore
 
