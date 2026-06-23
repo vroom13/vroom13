@@ -1,16 +1,89 @@
-## Hi there 👋
+# Varun Reddy
 
-<!--
-**vroom13/vroom13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineering Leader | Former Staff Engineer & Product Manager | AI-Native Builder**
 
-Here are some ideas to get you started:
+🇸🇬 Singapore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build products, platforms, and engineering organizations that scale.
+
+Currently leading Engineering, DevOps, and QA teams at Vonage, delivering Conversational AI, Commerce, and Customer Engagement platforms used by global enterprises.
+
+---
+
+## Highlights
+
+* 🚀 15+ years across Engineering, Architecture, Product, and Leadership
+* 👥 Built and lead a 38+ member Engineering organization
+* 🏗️ Former Staff Engineer and Staff Product Manager
+* 🏆 Inventor on 5 U.S. Patents
+* 🌎 Built products serving millions of users globally
+* 📈 Led initiatives generating significant revenue growth and platform scale improvements
+* 🤖 Driving AI-native software development and agentic engineering practices
+
+---
+
+## Career Snapshot
+
+Engineer → Staff Engineer → Staff Product Manager → Engineering Leader
+
+A career intentionally built across technology, product, and leadership to better connect engineering decisions with business outcomes.
+
+---
+
+## Currently Building
+
+### AI-Native Engineering
+
+Exploring how AI transforms software delivery through:
+
+* Spec-Driven Development
+* Multi-Agent Engineering Workflows
+* AI-Assisted Architecture & Coding
+* Engineering Productivity Systems
+
+### Customer Engagement Platforms
+
+Building:
+
+* Conversational AI
+* Commerce & Payments
+* Customer Data Platforms
+* Journey Orchestration
+* Omnichannel Messaging
+
+---
+
+## Leadership Principles
+
+* Ownership over process
+* Outcomes over output
+* Simplicity over complexity
+* Talent density over team size
+* Long-term thinking over short-term optimization
+
+---
+
+## Tech Areas
+
+`Go` • `Python` • `Vue.js` • `GCP` • `Kubernetes` • `Distributed Systems` • `AI/LLMs` • `CPaaS` • `Commerce`
+
+---
+
+## Current Focus (2026)
+
+* Building world-class engineering organizations
+* Scaling AI-native development practices
+* Developing future product and engineering leaders
+* Connecting technology strategy to business outcomes
+
+---
+
+## Connect
+
+💼 LinkedIn: https://linkedin.com/in/varunreddy3
+
+🐙 GitHub: https://github.com/vroom13
+
+---
+
+*"From writing code as an engineer to leading organizations and products, my passion remains the same: solving meaningful problems with technology and great people."*
